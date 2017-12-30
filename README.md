@@ -2,4 +2,4 @@
 # KillerLFE_System
 My large fontend system
 
-## [Js 基础问题](/sections/zh-cn/common.md)
+## [Js 基础问题](/basics)

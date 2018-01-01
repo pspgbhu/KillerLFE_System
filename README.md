@@ -12,7 +12,7 @@ My large fontend system
 ---
 
 ### [事件/异步](/event-async)
-* [ Promise](/event-async/ promise.md)
+* [Promise](/event-async/ promise.md)
 
 ### [JS工具](/utils/common.md) 
 * [获取URL参数](/utils/common.md)

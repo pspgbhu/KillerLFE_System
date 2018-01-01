@@ -11,7 +11,7 @@ My large fontend system
 * [常用数组方法](/basics/array.md)
 ---
 
-### [JS工具](/utils/common.md)
+### [JS工具](/utils/common.md) 
 * [获取URL参数](/utils/common.md)
 * [判断数据类型](/utils/common.md)
 ---
@@ -26,7 +26,7 @@ My large fontend system
 * [去重](/algorithm/unique.md)
 ---
 
-### [工具](/tools/common.md)
-* [sublime](/tools/sublime.md)
+### [工具](/tools)
+* [sublime](/tools)
 
 

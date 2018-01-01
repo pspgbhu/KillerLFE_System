@@ -11,6 +11,9 @@ My large fontend system
 * [常用数组方法](/basics/array.md)
 ---
 
+### [事件/异步](/event-async)
+* [ Promise](/event-async/ promise.md)
+
 ### [JS工具](/utils/common.md) 
 * [获取URL参数](/utils/common.md)
 * [判断数据类型](/utils/common.md)
@@ -25,6 +28,10 @@ My large fontend system
 * [排序](/algorithm/sort.md)
 * [去重](/algorithm/unique.md)
 ---
+
+
+### [VUE](/vue)
+* [数据绑定](/vue)
 
 ### [工具](/tools)
 * [sublime](/tools)

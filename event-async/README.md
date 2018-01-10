@@ -1,7 +1,6 @@
 
 ### [事件/异步](/event-async)
-* [ Promise](/event-async/ promise.md)
-
+* [Promise](/event-async/promise.md)
 
 常见问题
 
